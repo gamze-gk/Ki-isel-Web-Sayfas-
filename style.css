@@ -1,0 +1,149 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#sayfa{
+    width: 900px;
+    
+    border-style: none;
+    min-height: 600px;
+    margin: auto;
+}
+
+#banner{
+    width: 900px;
+    height: 100px;
+    border-style: none;
+    border-width: 1px;
+    margin: auto;
+}
+
+#logo{
+    width: 100px;
+    height: 80px;
+    border-style: none;
+    border-width: 1px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    float: left;
+}
+
+#sosyal{
+    width: 85px;
+    height: 40px;
+    border-style: none;
+    border-width: 1px;
+    float: right;
+    position: relative;
+    top: 50px;
+    right: 10px;
+    
+}
+#anamenu{
+    width: 898px;
+    height: 50px;
+    border-style: none;
+    border-width: 1px;
+    margin: auto;
+    background-color: bisque;
+    
+}
+#anamenu ul{
+    list-style-type: none;
+    
+    
+    
+}
+#anamenu ul li{
+    width: 200px;
+    border-style: none;
+    border-width: 2px;
+    border-radius: 10px;
+    float: left;
+    border-color: blueviolet;
+    background-color: burlywood;
+    padding: 2px;
+    margin-left: 350px;
+    text-align: center;
+    position: relative;
+    top: 12px;
+}
+#anamenu ul a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bolder;
+    
+}
+#anamenu ul a:link{
+    color:black;
+}
+#anamenu ul a:visited{
+    color: brown;
+}
+#anamenu ul a:hover{
+    color: chocolate;
+    text-decoration: underline;
+}
+#icerik{
+    width: 600px;
+    min-height: 400px;
+    border-right: solid;
+    border-color: burlywood;
+    border-width: 1px;
+    float: left;
+    
+}
+#yanmenu{
+    width: 296px;
+    min-height: 400px;
+    border-style: none;
+    border-width: 1px;
+    float:right;
+}
+.baslik{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: chocolate;
+    padding-top: 15px;
+}
+.metin{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: brown;
+
+}
+
+.yanmetin{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color:brown;
+    
+    
+}
+#altmenu{
+    width: 898px;
+    height: 42px;
+    border-style: none;
+    border-width: 1px;
+    float: left;
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(170, 121, 62);
+    text-align: center;
+    vertical-align: middle;
+    
+    
+}
+.altbaslik{
+    font-size: 20px;
+    float: left;
+    position: relative;
+    top: 7px;
+    left: 150px;
+    padding-right: 20px;
+}
+
